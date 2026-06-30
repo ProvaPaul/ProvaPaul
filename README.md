@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&text=Prova%20Rani%20Paul&fontSize=48&fontColor=fff&fontAlignY=65&animation=fadeIn&desc=She%20Codes.%20She%20Builds.%20She%20Ships.&descAlignY=85&descSize=15&descColor=cc99ff" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
 <br/>
 
-<div align="center">
+# ✨ Prova Rani Paul
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=CC99FF&center=true&vCenter=true&width=650&lines=☕+Coffee+in+hand.+Compiler+running.+LFG!;🎓+Final+Year+CSE+%40+KUET;🔧+Backend+APIs+are+my+love+language;🧠+NLP+researcher+by+day%2C+debugger+by+night;🏆+500%2B+LeetCode+%7C+350%2B+Codeforces;🚀+Building+things+that+actually+work)](https://git.io/typing-svg)
-
-</div>
+### `< Backend Engineer />` &nbsp;·&nbsp; `< Full-Stack Dev />` &nbsp;·&nbsp; `< Problem Solver />`
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=CC99FF&center=true&vCenter=true&width=650&lines=☕+Tea+brewing.+Terminal+open.+Let's+go!;🎓+Final+Year+CSE+%40+KUET+%7C+CGPA+3.43;🔧+Backend+APIs+are+my+love+language;🧠+NLP+researcher+by+day%2C+debugger+by+night;🏆+500%2B+LeetCode+%7C+350%2B+Codeforces;💜+She+Codes.+She+Builds.+She+Ships.)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-%238B5CF6.svg?style=for-the-badge)](https://provapaul.github.io/Portfolio_website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prova-paul)
@@ -22,9 +20,16 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/provapaul)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/provapaul)
 
+<br/>
+
+<!-- female software engineer cozy coding lifestyle -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-1f9b-4d0f-9076-6db55818f0d7.gif" width="100%" alt="coding lifestyle"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
+
 </div>
 
----
+<br/>
 
 ## 👩‍💻 About Me
 
@@ -37,16 +42,16 @@ const prova = {
 
   currentlyBuilding : [
     "CAFENOVA — AI-powered Cafe Management System",
-    "Bangla Word Sense Disambiguation (Final Year Thesis)",
+    "Bangla Word Sense Disambiguation (Final Year Thesis — ML + NLP)",
   ],
 
   askMeAbout : ["REST APIs", "MERN Stack", "Laravel", "DSA", "NLP"],
 
   lifeOutsideCode : [
-    "☕ Brewing tea before every coding session",
-    "📚 Reading research papers at 2 AM",
-    "🐛 Turning bugs into features (occasionally)",
-    "🏆 One more LeetCode problem before bed",
+    "☕  Brewing tea before every coding session",
+    "📚  Reading research papers at 2 AM",
+    "🐛  Turning bugs into features (occasionally)",
+    "🏆  One more LeetCode problem before bed",
   ],
 
   openTo : "SWE Roles · Internships · Research Collaborations",
@@ -103,7 +108,7 @@ const prova = {
 ### 🛍️ Gift Shop Management System
 **Laravel · PHP · MySQL**
 
-Full-stack e-commerce platform to manage products, orders, and users. RESTful APIs, MVC architecture, role-based authorization, and secure auth workflows.
+Full-stack e-commerce platform with product/order/user management. RESTful APIs, MVC architecture, role-based authorization, and secure auth workflows.
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
 
@@ -113,7 +118,7 @@ Full-stack e-commerce platform to manage products, orders, and users. RESTful AP
 ### 🤖 SmartHire — Resume Screener
 **MERN Stack · NLP**
 
-NLP-powered resume screening system with tokenization and feature extraction that converts unstructured resumes into recruiter-ready structured data.
+NLP-powered system with tokenization and feature extraction that converts unstructured resumes into recruiter-ready structured data.
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
 
@@ -125,7 +130,7 @@ NLP-powered resume screening system with tokenization and feature extraction tha
 ### 🏡 HomeHaven — Real Estate Marketplace
 **MERN Stack**
 
-Full-stack marketplace with JWT auth, property CRUD, image uploads, and advanced search filters. Express.js + MongoDB backend.
+Full-stack marketplace with JWT auth, property CRUD, image uploads, and advanced search. Express.js + MongoDB backend.
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
 
@@ -198,6 +203,7 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 ## 🏛️ Organizations
 
 > **Workshop Manager** · Bit2Byte Software Research and Development Club, KUET · *Oct 2025 – Present*
+>
 > Planned and organized technical workshops on software development and backend engineering methodologies.
 
 ---
@@ -210,12 +216,14 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 
 **Open to SWE Roles · Internships · Research Collaborations**
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://provapaul.github.io/Portfolio_website/)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=provapaul&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
-
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" width="100%"/>
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://provapaul.github.io/Portfolio_website/)
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=provapaul&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="bottom animation"/>
+
+</div>
