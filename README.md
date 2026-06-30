@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
-
-<br/>
-
-# ✨ Prova Rani Paul
-
-### `< Backend Engineer />` &nbsp;·&nbsp; `< Full-Stack Dev />` &nbsp;·&nbsp; `< Problem Solver />`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&text=Prova%20Rani%20Paul&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=62&descColor=cc99ff" width="100%"/>
 
 <br/>
 
@@ -22,10 +16,7 @@
 
 <br/>
 
-<!-- female software engineer cozy coding lifestyle -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-1f9b-4d0f-9076-6db55818f0d7.gif" width="100%" alt="coding lifestyle"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" alt="female software engineer coding lifestyle"/>
 
 </div>
 
@@ -33,29 +24,36 @@
 
 ## 👩‍💻 About Me
 
-```typescript
-const prova = {
-  university : "Khulna University of Engineering & Technology (KUET)",
-  degree     : "B.Sc. Computer Science & Engineering",
-  cgpa       : "3.43 / 4.00  ·  7 Semesters",
-  graduation : "Expected June 2026",
-
-  currentlyBuilding : [
-    "CAFENOVA — AI-powered Cafe Management System",
-    "Bangla Word Sense Disambiguation (Final Year Thesis — ML + NLP)",
-  ],
-
-  askMeAbout : ["REST APIs", "MERN Stack", "Laravel", "DSA", "NLP"],
-
-  lifeOutsideCode : [
-    "☕  Brewing tea before every coding session",
-    "📚  Reading research papers at 2 AM",
-    "🐛  Turning bugs into features (occasionally)",
-    "🏆  One more LeetCode problem before bed",
-  ],
-
-  openTo : "SWE Roles · Internships · Research Collaborations",
-};
+```bash
+┌─────────────────────────────────────────────────────────────────────┐
+│  ● ● ●   prova@kuet: ~/portfolio                                    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  prova@kuet:~$ whoami                                               │
+│  ↳  Prova Rani Paul  ·  CSE Final Year @ KUET  ·  CGPA: 3.43      │
+│                                                                     │
+│  prova@kuet:~$ cat focus.txt                                        │
+│  ↳  ⚙️  Backend Engineering & REST API Design                      │
+│  ↳  🚀  Full-Stack Development  (MERN  ·  Laravel)                 │
+│  ↳  🏆  Competitive Programming (LeetCode · Codeforces)            │
+│  ↳  🧠  NLP Research  —  Bangla WSD  (Final Year Thesis)           │
+│                                                                     │
+│  prova@kuet:~$ ls ./projects                                        │
+│  ↳  CAFENOVA/    SmartHire/    HomeHaven/    BlogApp/               │
+│                                                                     │
+│  prova@kuet:~$ cat daily_routine.log                                │
+│  ↳  ☕  08:00   Brew tea.  Open terminal.  Begin.                  │
+│  ↳  💻  09:00   Backend APIs & system design                       │
+│  ↳  📚  14:00   NLP papers & thesis work                           │
+│  ↳  🐛  18:00   Debug session  (always unplanned)                  │
+│  ↳  🏆  23:00   "Just one more LeetCode problem..."                │
+│  ↳  🌙  01:00   Midnight commit.  Push.  Sleep.  Repeat.           │
+│                                                                     │
+│  prova@kuet:~$ echo $OPEN_TO                                        │
+│  ↳  SWE Roles  ·  Internships  ·  Research Collaborations          │
+│                                                                     │
+│  prova@kuet:~$ █                                                    │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -224,6 +222,6 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="bottom animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="footer animation"/>
 
 </div>
