@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=CC99FF&center=true&vCenter=true&width=650&lines=☕+Tea+brewing.+Terminal+open.+Let's+go!;🎓+Final+Year+CSE+%40+KUET+%7C+CGPA+3.43;🔧+Backend+APIs+are+my+love+language;🧠+NLP+researcher+by+day%2C+debugger+by+night;🏆+500%2B+LeetCode+%7C+350%2B+Codeforces;💜+She+Codes.+She+Builds.+She+Ships.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=CC99FF&center=true&vCenter=true&width=650&lines=☕+Tea+brewing.+Terminal+open.+Let's+go!;🎓+Final+Year+CSE+%40+KUET+%7C+CGPA+3.43;🔧+Backend+APIs+are+my+love+language;🧠+NLP+researcher+by+day%2C+debugger+by+night;🏆+500%2B+LeetCode+%7C+350%2B+Codeforces;💜+She+Codes.+She+Builds.+She+Ships.)](https://github.com/ProvaPaul)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-%238B5CF6.svg?style=for-the-badge)](https://provapaul.github.io/Portfolio_website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prova-paul)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:provapaul123@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/provapaul)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/provapaul/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/provapaul)
 
 <br/>
@@ -44,19 +44,6 @@ I believe great software starts with clean architecture and ends with zero open 
 ```
 
 <br clear="right"/>
-
-<br/>
-
-### 📅 A Day in My Life
-
-| 🕐 Time | What I'm up to |
-|:---:|:---|
-| ☕ `08:00` | Brew tea. Open VS Code. Begin. |
-| 💻 `09:00` | Backend dev — REST APIs, databases, system design |
-| 📚 `14:00` | NLP research & thesis writing |
-| 🐛 `18:00` | Debug session *(always unplanned, never short)* |
-| 🏆 `23:00` | *"Just one more LeetCode problem..."* |
-| 🌙 `01:00` | Midnight commit. Push. Sleep. Repeat. |
 
 <br/>
 
@@ -119,7 +106,7 @@ I believe great software starts with clean architecture and ends with zero open 
 
 Full-stack e-commerce platform with product/order/user management. RESTful APIs, MVC architecture, role-based authorization, and secure auth workflows.
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
+[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul/Gift-Shop-Management-System)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +116,7 @@ Full-stack e-commerce platform with product/order/user management. RESTful APIs,
 
 NLP-powered system with tokenization and feature extraction that converts unstructured resumes into recruiter-ready structured data.
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
+[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul/SmartHire)
 
 </td>
 </tr>
@@ -141,7 +128,7 @@ NLP-powered system with tokenization and feature extraction that converts unstru
 
 Full-stack marketplace with JWT auth, property CRUD, image uploads, and advanced search. Express.js + MongoDB backend.
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
+[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul/HomeHaven)
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +138,7 @@ Full-stack marketplace with JWT auth, property CRUD, image uploads, and advanced
 
 Android blogging app with Firebase Auth, Firestore, and Storage for user content publishing and media management.
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul)
+[![GitHub](https://img.shields.io/badge/View%20Repo-%238B5CF6.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ProvaPaul/Blog-App)
 
 </td>
 </tr>
@@ -170,7 +157,7 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=provapaul&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=provapaul&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -207,11 +194,19 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=provapaul&theme=midnight_purple" width="100%" alt="Contribution Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=provapaul&theme=midnight_purple" height="165" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=provapaul&theme=midnight_purple" height="165" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=provapaul&theme=midnight_purple" height="165" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=provapaul&theme=midnight_purple&utcOffset=6" height="165" alt="Productive Time"/>
 
 </div>
 
