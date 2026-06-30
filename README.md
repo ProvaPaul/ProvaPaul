@@ -22,11 +22,10 @@
 
 <br/>
 
-## 👩‍💻 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="360" alt="girl typing on laptop"/>
 
-### Hi, I'm Prova 👋
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=50000&color=CC99FF&width=260&height=35&lines=Hi%2C+I%27m+Prova+%F0%9F%91%8B" alt="Hi, I'm Prova 👋"/>
 
 Final-year Computer Science and Engineering student at KUET with experience in building web applications and a strong
 foundation in C++. Familiar with Linux environments and experienced in developing scalable backend-focused
