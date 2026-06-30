@@ -16,7 +16,10 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%" alt="she codes - female software engineer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Professional female software engineer at workstation"/>
+</picture>
 
 </div>
 
@@ -204,6 +207,14 @@ Android blogging app with Firebase Auth, Firestore, and Storage for user content
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=provapaul&theme=tokyo-night&hide_border=true&area=true&area_color=8B5CF6&line=CC99FF&point=ffffff" width="100%" alt="Contribution Graph"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ProvaPaul/ProvaPaul/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
