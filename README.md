@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" alt="female software engineer coding lifestyle"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="female software engineer coding lifestyle"/>
 
 </div>
 
@@ -24,37 +24,48 @@
 
 ## 👩‍💻 About Me
 
-```bash
-┌─────────────────────────────────────────────────────────────────────┐
-│  ● ● ●   prova@kuet: ~/portfolio                                    │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  prova@kuet:~$ whoami                                               │
-│  ↳  Prova Rani Paul  ·  CSE Final Year @ KUET  ·  CGPA: 3.43      │
-│                                                                     │
-│  prova@kuet:~$ cat focus.txt                                        │
-│  ↳  ⚙️  Backend Engineering & REST API Design                      │
-│  ↳  🚀  Full-Stack Development  (MERN  ·  Laravel)                 │
-│  ↳  🏆  Competitive Programming (LeetCode · Codeforces)            │
-│  ↳  🧠  NLP Research  —  Bangla WSD  (Final Year Thesis)           │
-│                                                                     │
-│  prova@kuet:~$ ls ./projects                                        │
-│  ↳  CAFENOVA/    SmartHire/    HomeHaven/    BlogApp/               │
-│                                                                     │
-│  prova@kuet:~$ cat daily_routine.log                                │
-│  ↳  ☕  08:00   Brew tea.  Open terminal.  Begin.                  │
-│  ↳  💻  09:00   Backend APIs & system design                       │
-│  ↳  📚  14:00   NLP papers & thesis work                           │
-│  ↳  🐛  18:00   Debug session  (always unplanned)                  │
-│  ↳  🏆  23:00   "Just one more LeetCode problem..."                │
-│  ↳  🌙  01:00   Midnight commit.  Push.  Sleep.  Repeat.           │
-│                                                                     │
-│  prova@kuet:~$ echo $OPEN_TO                                        │
-│  ↳  SWE Roles  ·  Internships  ·  Research Collaborations          │
-│                                                                     │
-│  prova@kuet:~$ █                                                    │
-└─────────────────────────────────────────────────────────────────────┘
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" alt="coding gif"/>
+
+### Hi, I'm Prova 👋
+
+Final-year **CSE student at KUET** who loves building clean, scalable backend systems and crafting full-stack applications that actually work in production. Currently balancing API development, competitive programming, and NLP research — all before midnight.
+
+I believe great software starts with clean architecture and ends with zero open bug reports. *(Almost.)*
+
+<br/>
+
+```yaml
+🎓  University  :  Khulna University of Engineering & Technology
+📖  Degree      :  B.Sc. Computer Science & Engineering
+📊  CGPA        :  3.43 / 4.00  (7 Semesters)
+🗓️  Graduating  :  June 2026
+📍  Location    :  Khulna, Bangladesh
+💼  Open To     :  SWE Roles · Internships · Research Collabs
 ```
+
+<br clear="right"/>
+
+<br/>
+
+### 📅 A Day in My Life
+
+| 🕐 Time | What I'm up to |
+|:---:|:---|
+| ☕ `08:00` | Brew tea. Open VS Code. Begin. |
+| 💻 `09:00` | Backend dev — REST APIs, databases, system design |
+| 📚 `14:00` | NLP research & thesis writing |
+| 🐛 `18:00` | Debug session *(always unplanned, never short)* |
+| 🏆 `23:00` | *"Just one more LeetCode problem..."* |
+| 🌙 `01:00` | Midnight commit. Push. Sleep. Repeat. |
+
+<br/>
+
+### 🚧 Currently Building
+
+| Project | Stack | Status |
+|:---|:---|:---:|
+| 🤖 **CAFENOVA** — AI-powered Cafe Management System | Java · AI | 🟡 In Progress |
+| 🧠 **Bangla WSD** — Word Sense Disambiguation Model | Python · ML · NLP | 🟡 In Progress |
 
 ---
 
