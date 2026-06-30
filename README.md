@@ -16,10 +16,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Professional female software engineer at workstation"/>
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-2aad8d63-ddad-4ce4-8a26-72c1b5b00e01.gif" width="100%" alt="Professional female software engineer"/>
 
 </div>
 
