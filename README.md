@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="female software engineer coding lifestyle"/>
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%" alt="she codes - female software engineer"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="360" alt="girl typing on laptop"/>
 
 ### Hi, I'm Prova 👋
 
