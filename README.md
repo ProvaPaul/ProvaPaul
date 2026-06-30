@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=CC99FF&center=true&vCenter=true&width=650&lines=☕+Tea+brewing.+Terminal+open.+Let's+go!;🎓+Final+Year+CSE+%40+KUET+%7C+CGPA+3.43;🔧+Backend+APIs+are+my+love+language;🧠+NLP+researcher+by+day%2C+debugger+by+night;🏆+500%2B+LeetCode+%7C+350%2B+Codeforces;💜+She+Codes.+She+Builds.+She+Ships.)](https://github.com/ProvaPaul)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=CC99FF&center=true&vCenter=true&width=700&lines=B.Sc.+Computer+Science+%26+Engineering+%7C+KUET;Backend+Engineer+%7C+Full-Stack+Developer;Building+Scalable+REST+APIs+%26+Web+Applications;NLP+Researcher+%7C+Bangla+Word+Sense+Disambiguation;500%2B+LeetCode+%7C+350%2B+Codeforces+Problems+Solved;Open+to+SWE+Roles%2C+Internships+%26+Research+Collabs)](https://github.com/ProvaPaul)
 
 <br/>
 
@@ -22,15 +22,15 @@
 
 <br/>
 
-## 👩‍💻 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="360" alt="girl typing on laptop"/>
 
-### Hi, I'm Prova 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20,24&height=55&text=Hi%2C+I'm+Prova+%F0%9F%91%8B&fontSize=36&fontColor=cc99ff&animation=twinkling&fontAlignY=80" />
 
-Final-year **CSE student at KUET** who loves building clean, scalable backend systems and crafting full-stack applications that actually work in production. Currently balancing API development, competitive programming, and NLP research — all before midnight.
-
-I believe great software starts with clean architecture and ends with zero open bug reports. *(Almost.)*
+Final-year Computer Science and Engineering student at KUET with experience in building web applications and a strong
+foundation in C++. Familiar with Linux environments and experienced in developing scalable backend-focused
+applications. Seeking an entry-level Software Engineer role to contribute to the design, development and maintenance of
+reliable, high-quality software systems. 
 
 <br/>
 
