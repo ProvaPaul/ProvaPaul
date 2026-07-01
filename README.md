@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-%238B5CF6.svg?style=for-the-badge)](https://provapaul.github.io/Portfolio_website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prova-paul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prova-paul-352a61320/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:provapaul123@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/provapaul/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/provapaul)
